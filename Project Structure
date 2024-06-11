@@ -1,0 +1,24 @@
+Project Structure
+   ```css
+   Simple-Feedback-Management-System/
+   ├── backend/
+   │   ├── src/
+   │   │   ├── controllers/
+   │   │   │   └── feedbackController.ts
+   │   │   ├── routes/
+   │   │   │   └── feedbackRoutes.ts
+   │   │   └── index.ts
+   │   ├── package.json
+   │   └── tsconfig.json
+   ├── frontend/
+   │   ├── src/
+   │   │   ├── components/
+   │   │   │   ├── FeedbackForm.tsx
+   │   │   │   └── FeedbackList.tsx
+   │   │   └── App.tsx
+   │   ├── package.json
+   │   └── tsconfig.json
+   ├── README.md
+   └── .gitignore
+
+
